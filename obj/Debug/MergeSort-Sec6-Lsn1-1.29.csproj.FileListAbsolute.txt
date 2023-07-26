@@ -1,0 +1,8 @@
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\MergeSort-Sec6-Lsn1-1.29\MergeSort-Sec6-Lsn1-1.29\bin\Debug\MergeSort-Sec6-Lsn1-1.29.exe.config
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\MergeSort-Sec6-Lsn1-1.29\MergeSort-Sec6-Lsn1-1.29\bin\Debug\MergeSort-Sec6-Lsn1-1.29.exe
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\MergeSort-Sec6-Lsn1-1.29\MergeSort-Sec6-Lsn1-1.29\bin\Debug\MergeSort-Sec6-Lsn1-1.29.pdb
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\MergeSort-Sec6-Lsn1-1.29\MergeSort-Sec6-Lsn1-1.29\obj\Debug\MergeSort-Sec6-Lsn1-1.29.csproj.AssemblyReference.cache
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\MergeSort-Sec6-Lsn1-1.29\MergeSort-Sec6-Lsn1-1.29\obj\Debug\MergeSort-Sec6-Lsn1-1.29.csproj.SuggestedBindingRedirects.cache
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\MergeSort-Sec6-Lsn1-1.29\MergeSort-Sec6-Lsn1-1.29\obj\Debug\MergeSort-Sec6-Lsn1-1.29.csproj.CoreCompileInputs.cache
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\MergeSort-Sec6-Lsn1-1.29\MergeSort-Sec6-Lsn1-1.29\obj\Debug\MergeSort-Sec6-Lsn1-1.29.exe
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\Assisted Projects-C#\MergeSort-Sec6-Lsn1-1.29\MergeSort-Sec6-Lsn1-1.29\obj\Debug\MergeSort-Sec6-Lsn1-1.29.pdb
